@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A85460BD2403798100FD22FB /* TDStudent.m in Sources */ = {isa = PBXBuildFile; fileRef = A85460BC2403798100FD22FB /* TDStudent.m */; };
 		A8C211AB240371A60063BA0E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A8C211AA240371A60063BA0E /* AppDelegate.m */; };
 		A8C211AE240371A60063BA0E /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A8C211AD240371A60063BA0E /* SceneDelegate.m */; };
 		A8C211B1240371A60063BA0E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8C211B0240371A60063BA0E /* ViewController.m */; };
@@ -36,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A85460BB2403798100FD22FB /* TDStudent.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TDStudent.h; sourceTree = "<group>"; };
+		A85460BC2403798100FD22FB /* TDStudent.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TDStudent.m; sourceTree = "<group>"; };
 		A8C211A6240371A60063BA0E /* DZ8.NSdictionary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DZ8.NSdictionary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8C211A9240371A60063BA0E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		A8C211AA240371A60063BA0E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -106,6 +109,8 @@
 			children = (
 				A8C211A9240371A60063BA0E /* AppDelegate.h */,
 				A8C211AA240371A60063BA0E /* AppDelegate.m */,
+				A85460BB2403798100FD22FB /* TDStudent.h */,
+				A85460BC2403798100FD22FB /* TDStudent.m */,
 				A8C211AC240371A60063BA0E /* SceneDelegate.h */,
 				A8C211AD240371A60063BA0E /* SceneDelegate.m */,
 				A8C211AF240371A60063BA0E /* ViewController.h */,
@@ -267,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A85460BD2403798100FD22FB /* TDStudent.m in Sources */,
 				A8C211B1240371A60063BA0E /* ViewController.m in Sources */,
 				A8C211AB240371A60063BA0E /* AppDelegate.m in Sources */,
 				A8C211BC240371A90063BA0E /* main.m in Sources */,
